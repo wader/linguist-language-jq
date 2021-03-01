@@ -1,0 +1,10 @@
+{
+  "name": "linguist-language-jq",
+  "version": "0.1.0",
+  "description": "jq language support",
+  "keywords": [
+    "jq"
+  ],
+  "repository": "https://github.com/wader/linguist-language-jq",
+  "license": "MIT"
+}
